@@ -7,3 +7,8 @@ This is created by Aniket.
 Shivam
 Aryan
 Vishal
+
+# Teacher
+Shradha khapra
+Rohit Negi
+Akshit Shroff
